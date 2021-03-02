@@ -1,0 +1,27 @@
++ mvc(model view control)
+
+ MVC Pattern
+
+ - JSP (디자인, 로직, 흐름) : 한 페이지에 들어있음 (Model1 방식)
+ 
+ - 프로젝트가 엔터프라이즈 급으로 커진다면?
+ 
+ 1. 화면 : JSP						==> View
+ 2. DB 연결, 데이터 조작(연산) : JAVA		==> Model
+ 3. 데이터 흐름 : Servlet				==> Control
+ 
+ - 이런 방식을 MVC Pattern 또는 Model2 방식
+ - 유지, 보수가 훨씬 용이
+ - 개발은 더 번거롭다.
+ 
+
+
+
+
+
+
+
+
+
+
+
